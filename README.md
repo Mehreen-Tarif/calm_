@@ -1,9 +1,6 @@
-## Keep CALM and Improve Visual Feature Attribution (ICCV 2021) | [Paper](https://arxiv.org/abs/2106.07861)
+## Keep CALM and Improve Visual Feature Attribution 
 
-Jae Myung Kim<sup>1*</sup>, Junsuk Choe<sup>1*</sup>, Zeynep Akata<sup>2</sup>, Seong Joon Oh<sup>1&dagger;</sup>  
-<sub>\* Equal contribution</sub> <sub>&dagger;</sub> <sub> Corresponding author </sub>
-
-<sup>1</sup> <sub>NAVER AI LAB</sub>  <sup>2</sup> <sub>University of T&uuml;bingen</sub> 
+Tarif Mehreen  
 
 
 <p align="center">
